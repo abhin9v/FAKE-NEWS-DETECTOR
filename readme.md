@@ -1,4 +1,4 @@
-```markdown
+
 # FAKE-NEWS-DETECTOR
 
 [![GitHub repo stars](https://img.shields.io/github/stars/abhin9v/FAKE-NEWS-DETECTOR?style=social)](https://github.com/abhin9v/FAKE-NEWS-DETECTOR)
